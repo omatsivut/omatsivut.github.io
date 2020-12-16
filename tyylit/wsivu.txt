@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset0"utf-8" />
+    <link rel ="stylesheet" type"text/css" href="styles.css">
+</head>
+<body>
+    <h1>Pääotsikko tulee tähän</h1>
+    <p>Tähän tulee ensimmäisen kappaleen teksti, johon kirjoitan aihetta käsittelevät pääasiat.</p>
+    <div>
+    <h2>Runo</h2>
+    <p>Runon sanat tähän</p>
+    <p>Toinen säkeistö</p>
+    </div>
+    <ol>
+    <li>koira</li>
+    <li>kissa</li>
+    </ol>
+    <ul>
+    <li>asiat</li>
+    <li>jutut</li>
+    </ul>
+</body>
